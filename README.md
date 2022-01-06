@@ -1,0 +1,2 @@
+# Azureprojectdeploy
+FRT project deployment
