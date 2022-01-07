@@ -1,6 +1,8 @@
 # Azureprojectdeploy
-FRT project deployment
+FRT Azure project
 
+
+The UI is built using Flask and the main deployment part and model training is done in Azure.
 
 Data Dictionary of medical parameters:
 
