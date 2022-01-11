@@ -2,7 +2,7 @@
 FRT Azure project
 
 
-The UI is built using Flask and the main deployment part and model training is done in Azure.
+The Frontend is built using HTML and CSS and Backend is built using Flask, the main deployment part and model training is done in Azure.
 
 Data Dictionary of medical parameters:
 
