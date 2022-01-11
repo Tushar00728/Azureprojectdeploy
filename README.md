@@ -22,4 +22,7 @@ Data Dictionary of medical parameters:
 14. target - have disease or not (1=yes, 0=no) (= the predicted attribute)****
 
 
+
+The app will display 0 for no disease and 1 for disease after submitting the form at the bottom of the page.
+
 The app is deployed on Azure: http://heartdiseasepred.azurewebsites.net/
