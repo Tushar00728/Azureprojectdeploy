@@ -14,7 +14,7 @@ To deploy the project, We follow this documentaion - https://docs.microsoft.com/
 
 Created a new resource group .
 Made and configured a new web app resource by using Azure Web App service .
-In the resource deployment center, We set the source as Github and selected the project repository from my Github account.
+In the resource deployment center, We set the source as Github and selected the project repository from the Github account.
 Finally, We deploy the mentioned Github repository . We then test our project by giving the medical parameters to the web app and submit the form. At the bottom of the page, 0 is displayed if the person dosen't have heart disease. 1 is displayed if the person has heart disease.
 
 
