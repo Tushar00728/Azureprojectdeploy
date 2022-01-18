@@ -23,6 +23,6 @@ Data Dictionary of medical parameters:
 
 
 
-The app will display 0 for no disease and 1 for disease after submitting the form at the bottom of the page.
+The app will display 0 for no disease and 1 for any general disease after submitting the form at the bottom of the page.
 
 The app is deployed on Azure: http://heartdiseasepred.azurewebsites.net/
