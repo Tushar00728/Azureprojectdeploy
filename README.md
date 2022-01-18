@@ -1,7 +1,7 @@
 # Azure project deployment
 
 ## Heart Disease Predictor
-This project helps to predict whether a person has heart disease or not using certain medical parameters.
+This project helps to predict whether a person has heart disease or not using certain medical parameters given to the system.
 
 ## Overview :
 First,we download the dataset from UCI repository . Then we have to apply feature engineering into dataset to clean the data , feature scaling , data pre-processing and find correlation between different features. Then we divide our dataset into two parts , independent features and dependent feature . In dependent feature we consider target and independent feature consider rest of the column . Then we divide the dataset into two sets, first part train dataset and second part test dataset . After that we choose an algorithm for classification and then train it and perform hyperparameter tuning.
